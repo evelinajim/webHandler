@@ -1,4 +1,4 @@
-# webHandler
+# WebServer
 Here I will be testing the WebServer for different files as well as a persistent TCP connection.
 
 ## Requirements
