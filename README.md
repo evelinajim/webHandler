@@ -22,3 +22,8 @@ Here I will be testing the WebServer for different files as well as a persistent
 
 ## Run WebHandler on
 * http://localhost:81/
+
+## Youtube
+* The video of me testing the program: 
+* Thing I hadn't mentioned in the video. The fav icon is connected to the small icon at the top of the browser!
+* You can't see it in my project because of the persistent connection presenting the loading page.
